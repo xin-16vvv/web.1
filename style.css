@@ -139,9 +139,9 @@ h2 {
 
 /* 小羊樣式 */
 .sheep {
-  width: 30px; /* 小羊的寬度 */
-  height: 30px; /* 小羊的高度 */
-  background-image: url('https://example.com/your-sheep-image.png'); /* 替換為小羊圖片的 URL */
+  width: 60px; /* 小羊的寬度 */
+  height: 60px; /* 小羊的高度 */
+  background-image: url('https://i.imgur.com/ScS86xN.png'); /* 替換為小羊圖片的 URL */
   background-size: cover;
   position: absolute;
   top: -10px; /* 調整小羊的垂直位置 */
